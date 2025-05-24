@@ -6,6 +6,6 @@
 
 - 🌱 I’m currently learning **NodeJs, .Net and Java**
 
-- 💬 Ask me about **Javascript, ReactJs and Java**
+- 💬 Ask me about **Javascript, C# and Java**
 
 - ⚡ Fun fact **There are only 10 types of people in the world: Those who understand binary and those who don't.**
