@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laschenkov67&label=Profile%20views&color=0e75b6&style=flat" alt="laschenkov67" /> </p>
 
-- 🌱 I’m currently learning **NodeJs, NextJs and Java**
+- 🌱 I’m currently learning **NodeJs, .Net and Java**
 
 - 💬 Ask me about **Javascript, ReactJs and Java**
 
