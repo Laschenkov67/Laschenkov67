@@ -8,6 +8,4 @@
 
 - 💬 Ask me about **Javascript, ReactJs and Java**
 
-- 📫 How to reach me **laschenkov59@yandex.ru**
-
 - ⚡ Fun fact **There are only 10 types of people in the world: Those who understand binary and those who don't.**
